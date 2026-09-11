@@ -1,0 +1,11 @@
+benchmark,split,total_files,blank_files,blank_pct,blank_HS,blank_NHS
+iccad1,train,439,0,0.0,0,0
+iccad1,test,4905,39,0.795,0,39
+iccad2,train,5459,0,0.0,0,0
+iccad2,test,41796,462,1.105,0,462
+iccad3,train,5552,0,0.0,0,0
+iccad3,test,48141,799,1.66,0,799
+iccad4,train,4547,0,0.0,0,0
+iccad4,test,32067,739,2.305,0,739
+iccad5,train,2742,0,0.0,0,0
+iccad5,test,19368,629,3.248,0,629
