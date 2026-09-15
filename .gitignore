@@ -3,3 +3,4 @@ __pycache__/
 .ipynb_checkpoints/
 outputs/models/*.h5
 outputs/models/*.pt
+outputs/iccad_checkpoints/*.keras
